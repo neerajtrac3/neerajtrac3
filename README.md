@@ -25,7 +25,7 @@ My expertise lies in bridging **strategic vision with technical execution** — 
 ---
 
 ## 📚 Publications & Thought Leadership
-- IEEE/ACM technical papers on **AI Innovation and Modernization**  
+- IEEE Technical paper on **Federated Learning for Cloud Cybersecurity: Privacy-Preserving Collaborative Threat Intelligence**  
 - White papers and case studies on **Digital Transformation in Financial Services**  
 - Active engagement in **Professional Communities, Conferences, and Judging **  
 
