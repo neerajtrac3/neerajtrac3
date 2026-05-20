@@ -17,12 +17,10 @@ My expertise lies in bridging **strategic vision with technical execution** — 
 - Access Liquidity & Access Escrow - Digital payment System - Citizens Bank
 - Core Lending Modernization - Citizens Bank
 - Rainbow Program - Royal Bank of Scotland
+- CAMS CASB - National Australia Bank
+- Availability & Scheduling - Worldspan - Travelport
+- Ehotels - SABRE Holdings
 
-- 🔹 [Loan Risk Predictor](https://github.com/neerajtrac3/loan-risk-predictor)  
-  Machine learning model predicting loan default risk using public datasets.  
-
-- 🔹 [Cloud Migration Workflow](https://github.com/neerajtrac3/cloud-migration-workflow)  
-  Documentation and diagrams for migrating legacy banking systems to the cloud.  
 
 ---
 
