@@ -55,6 +55,12 @@ My work has been read by **100,000+ professionals globally**.
 ## 📌 **Featured Wiki Pages**
 These pages document my modernization and AI contributions:
 
+### 📘 BankingSLM – Domain‑Specific Small Language Model for Banking
+A detailed Wiki documenting architecture, innovation, enterprise adoption, and your role in co‑developing BankingSLM with Infosys Topaz, NVIDIA, and Sarvam AI.
+
+👉 [Read the full Wiki page](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/WIKI-PAGE-1-%E2%80%94-BankingSLM:-Domain%E2%80%91Specific-Small-Language-Model-for-Banking)
+
+
 - **Core Lending Modernization**  
   *Architecture, patterns, frameworks, and modernization of 77+ legacy systems*  
   👉 `/wiki/Core-Lending-Modernization`
