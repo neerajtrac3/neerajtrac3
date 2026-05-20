@@ -11,6 +11,13 @@ My expertise lies in bridging **strategic vision with technical execution** — 
 ---
 
 ## 🧠 Featured Projects
+- Gateway Payment Modernization
+- Atlas Program 
+- 1corpData
+- Access Liquidity & Access Escrow - Digital payment System - Citizens Bank
+- Core Lending Modernization - Citizens Bank
+- Rainbow Program - Royal Bank of Scotland
+
 - 🔹 [Loan Risk Predictor](https://github.com/neerajtrac3/loan-risk-predictor)  
   Machine learning model predicting loan default risk using public datasets.  
 
