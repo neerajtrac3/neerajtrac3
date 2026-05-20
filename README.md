@@ -61,7 +61,7 @@ These pages document my modernization and AI contributions:
 
 - **BankingSLM – Domain‑Specific Small Language Model**  
   *Architecture, training strategy, governance, and enterprise adoption*  
-  👉 `/wiki/BankingSLM`
+  👉 `/https://github.com/neerajtrac3/Projects/wiki/WIKI-PAGE-1-%E2%80%94-BankingSLM:-Domain%E2%80%91Specific-Small-Language-Model-for-Banking/`
 
 - **Prompt Flow Design & AI Governance**  
   *Enterprise prompt engineering patterns and evaluation frameworks*  
