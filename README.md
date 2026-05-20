@@ -84,11 +84,15 @@ A detailed Wiki documenting architecture, innovation, enterprise adoption, and y
 ## 🌐 **Find Me Online**
 - **LinkedIn**(https://www.linkedin.com/in/neeraj-aggarwal-psm-04481916/)
   
-- **Google Scholar**  
-- **ORCID**  
-- **ResearchGate**  
-- **Finextra**  
-- **GitHub Wiki** (Full technical documentation)
+- **Google Scholar**(https://scholar.google.com/citations?user=raJzBqEAAAAJ&hl=en)  
+
+- **ORCID**(https://orcid.org/my-orcid?orcid=0009-0006-3854-9885)
+  
+- **ResearchGate**(https://www.researchgate.net/profile/Neeraj-Aggarwal-11?ev=hdr_xprf)
+    
+- **Finextra**(https://www.finextra.com/bloggers/171572)
+  
+- **GitHub Wiki** (https://github.com/neerajtrac3/neerajtrac3/edit/main/README.md))
 
 ---
 
