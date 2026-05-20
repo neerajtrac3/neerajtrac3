@@ -3,8 +3,8 @@
 # 👋 Hi, I'm Neeraj Aggarwal
 
 ## 📌 About Me
-I am a **Senior Technical Program Manager and Technology Leader**, specializing in **AI-driven solutions, core banking modernization, and digital transformation**.  
-Over the past two decades, I have directed multimillion-dollar modernization programs across leading financial institutions and technology companies, including **Citizens Bank, State Street, Microsoft Azure, and Thomson Reuters**.  
+**Senior Technical Program Manager and Technology Leader**, specializing in **AI-driven solutions, core banking modernization, and digital transformation**.  
+Over the past two decades, have directed multimillion-dollar modernization programs across leading financial institutions and technology companies, including **Citizens Bank, State Street, Microsoft Azure, and Thomson Reuters**.  
 
 My expertise lies in bridging **strategic vision with technical execution** — leading cross-functional teams, delivering under regulatory constraints, and setting benchmarks in **enterprise architecture, cloud migration, and AI innovation**.  
 
@@ -20,9 +20,9 @@ My expertise lies in bridging **strategic vision with technical execution** — 
 ---
 
 ## 📚 Publications & Thought Leadership
-- IEEE/ACM technical papers on **AI innovation and modernization**  
-- White papers and case studies on **digital transformation in financial services**  
-- Active engagement in **professional communities, conferences, and judging opportunities**  
+- IEEE/ACM technical papers on **AI Innovation and Modernization**  
+- White papers and case studies on **Digital Transformation in Financial Services**  
+- Active engagement in **Professional Communities, Conferences, and Judging **  
 
 ---
 
@@ -33,11 +33,7 @@ My expertise lies in bridging **strategic vision with technical execution** — 
 ---
 
 ## 🏅 Recognition
-- **IoA Membership Candidate** – Institute of Analytics (UK)  
-- **IETE Member** – Institution of Electronics & Telecommunication Engineers (India)  
-- **Sigma Xi Member** – Scientific Research Honor Society (Global)  
-
-These memberships reflect my commitment to **professional excellence and peer recognition** in analytics, engineering, and scientific innovation.  
+- **IETE Fellow** – Institution of Electronics & Telecommunication Engineers (India)  
 
 ---
 
