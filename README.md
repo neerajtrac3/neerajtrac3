@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Neeraj Aggarwal  
 ### AI‑Driven Banking Modernization Leader | Infosys Topaz COE (AI Architecture & Innovation)  
-### Senior Technical Program Manager – State Street (Tier‑0 Modernization)
+### Senior Technical Program Manager – State Street (Tier‑0 Modernization
+### Digital payment Modernization
+### Domain-Specific SLMs • Enterprise Prompt Engineering
+
 
 I specialize in **AI engineering, digital payments, and large‑scale banking modernization**, with 23+ years leading mission‑critical transformations across State Street, Citizens Bank, Royal Bank of Scotland, National Australia Bank, and Microsoft ecosystems.
 
