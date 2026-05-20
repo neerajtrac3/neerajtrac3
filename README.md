@@ -82,7 +82,9 @@ A detailed Wiki documenting architecture, innovation, enterprise adoption, and y
 ---
 
 ## 🌐 **Find Me Online**
-- **LinkedIn**  
+- **LinkedIn **
+- https://www.linkedin.com/in/neeraj-aggarwal-psm-04481916/
+ 
 - **Google Scholar**  
 - **ORCID**  
 - **ResearchGate**  
