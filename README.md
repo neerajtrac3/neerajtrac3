@@ -60,24 +60,14 @@ A detailed Wiki documenting architecture, innovation, enterprise adoption, and y
 
 👉 [Read the full Wiki page](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/WIKI-PAGE-1-%E2%80%94-BankingSLM:-Domain%E2%80%91Specific-Small-Language-Model-for-Banking)
 
+## 📚 Featured Wiki Documentation
 
-- **Core Lending Modernization**  
-  *Architecture, patterns, frameworks, and modernization of 77+ legacy systems*  
-  👉 `/wiki/Core-Lending-Modernization`
+- [BankingSLM – Domain‑Specific Small Language Model for Banking](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/BankingSLM)
+- [Core Lending Modernization](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/Core-Lending-Modernization)
+- [Prompt Flow Design & AI Governance](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/Prompt-Flow-Design)
+- [Modernization Patterns Library](https://github.com/neerajtrac3/banking-modernization-portfolio/wiki/Modernization-Patterns)
 
-- **BankingSLM – Domain‑Specific Small Language Model**  
-  *Architecture, training strategy, governance, and enterprise adoption*  
-  👉 `/https://github.com/neerajtrac3/Projects/wiki/WIKI-PAGE-1-%E2%80%94-BankingSLM:-Domain%E2%80%91Specific-Small-Language-Model-for-Banking/`
 
-- **Prompt Flow Design & AI Governance**  
-  *Enterprise prompt engineering patterns and evaluation frameworks*  
-  👉 `/wiki/Prompt-Flow-Design`
-
-- **Modernization Patterns Library**  
-  *Strangler pattern, event‑driven design, API‑led connectivity, canonical models*  
-  👉 `/wiki/Modernization-Patterns`
-
----
 
 ## ⭐ **Featured Work (Pinned Repositories)**
 - `core-lending-modernization-patterns`  
