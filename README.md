@@ -1,47 +1,100 @@
-## Hi there 👋
+# 👋 Hi, I'm Neeraj Aggarwal  
+### AI‑Driven Banking Modernization Leader | Infosys Topaz COE (AI Architecture & Innovation)  
+### Senior Technical Program Manager – State Street (Tier‑0 Modernization)
 
-# 👋 Hi, I'm Neeraj Aggarwal
+I specialize in **AI engineering, digital payments, and large‑scale banking modernization**, with 23+ years leading mission‑critical transformations across State Street, Citizens Bank, Royal Bank of Scotland, National Australia Bank, and Microsoft ecosystems.
 
-## 📌 About Me
-**Senior Technical Program Manager and Technology Leader**, specializing in **AI-driven solutions, core banking modernization, and digital transformation**.  
-Over the past two decades, have directed multimillion-dollar modernization programs across leading financial institutions and technology companies, including **Citizens Bank, State Street, Microsoft Azure, and Thomson Reuters**.  
-
-My expertise lies in bridging **strategic vision with technical execution** — leading cross-functional teams, delivering under regulatory constraints, and setting benchmarks in **enterprise architecture, cloud migration, and AI innovation**.  
-
----
-
-## 🧠 Featured Projects
-- Gateway Payment Modernization
-- Atlas Program 
-- 1corpData
-- Access Liquidity & Access Escrow - Digital payment System - Citizens Bank
-- Core Lending Modernization - Citizens Bank
-- Rainbow Program - Royal Bank of Scotland
-- CAMS CASB - National Australia Bank
-- Availability & Scheduling - Worldspan - Travelport
-- Ehotels - SABRE Holdings
-
+My work spans **AI architecture, domain‑specific Small Language Models (BankingSLM), modernization frameworks, prompt engineering, and Tier‑0/Tier‑1 system transformation**.  
+I build **enterprise‑grade frameworks, modernization patterns, and AI accelerators** that are adopted across global banks and referenced in academic research.
 
 ---
 
-## 📚 Publications & Thought Leadership
-- IEEE Technical paper on **Federated Learning for Cloud Cybersecurity: Privacy-Preserving Collaborative Threat Intelligence**  
-- White papers and case studies on **Digital Transformation in Financial Services**  
-- Active engagement in **Professional Communities, Conferences, and Judging **  
+## 🚀 **What I Work On**
+- **AI Architecture & Prompt Engineering** (Infosys Topaz COE)  
+- **BankingSLM** — Domain‑specific Small Language Model for Banking (with NVIDIA & Sarvam AI)  
+- **Tier‑0 Modernization** — Payments, custody, cash, and core banking systems  
+- **Modernization Frameworks** — UICS, ERMI, UAMMF, UAGB  
+- **Digital Payments & Real‑Time Processing**  
+- **Legacy → Cloud Transformation** (COBOL, Assembler, TPF, Mainframe Integration)
 
 ---
 
-## 🛠️ Templates & Frameworks
-- (https://github.com/neerajtrac3/project-readme-template)  
-- (https://github.com/neerajtrac3/requirements-template)  
+## 🧠 **Original Contributions**
+I have authored **11+ modernization frameworks**, including:
+
+- **UICS** — Unified Integration & Connectivity Standard  
+- **ERMI** — Enterprise Risk Modernization Index  
+- **UAMMF** — Unified AI‑Driven Modernization & Migration Framework  
+- **UAGB** — Unified API Governance Blueprint  
+
+These frameworks are **adopted across State Street, Citizens Bank, RBS, NAB**, and referenced in modernization programs and scholarly research.
+
+I also co‑developed the **Infosys Topaz BankingSLM**, a domain‑specific LLM for banking, built with **NVIDIA and Sarvam AI**, now part of State Street’s modernization roadmap.
 
 ---
 
-## 🏅 Recognition
-- **IETE Fellow** – Institution of Electronics & Telecommunication Engineers (India)  
+## 📚 **Publications & Research**
+- **30+ publications** across IEEE Xplore, SSRN, ResearchGate, Finextra, Medium  
+- **3 peer‑reviewed IEEE conference papers (2026)**  
+- **Technical Manual (100+ pages)** on Assembler & 32‑bit Memory Mapping  
+- Contributor to **BIAN**, shaping global banking standards  
+
+My work has been read by **100,000+ professionals globally**.
 
 ---
 
-## 🌍 Connect With Me
-- LinkedIn: ([https://linkedin.com/in/neeraj-aggarwal](https://www.linkedin.com/in/neeraj-aggarwal-psm-04481916/))  
-- GitHub: (https://github.com/neerajtrac3)  
+## 🏛️ **Judging, Reviewing & Leadership**
+- Reviewer for **60+ IEEE/Springer papers**  
+- Technical Chair — **SkillsUSA Rhode Island (1050 participants)**  
+- Judge — **RI MESA**, **National History Day**  
+- Advisor — **Bryant University AI CoE**  
+- Member — **Rhode Island College CS Advisory Committee**
+
+---
+
+## 📌 **Featured Wiki Pages**
+These pages document my modernization and AI contributions:
+
+- **Core Lending Modernization**  
+  *Architecture, patterns, frameworks, and modernization of 77+ legacy systems*  
+  👉 `/wiki/Core-Lending-Modernization`
+
+- **BankingSLM – Domain‑Specific Small Language Model**  
+  *Architecture, training strategy, governance, and enterprise adoption*  
+  👉 `/wiki/BankingSLM`
+
+- **Prompt Flow Design & AI Governance**  
+  *Enterprise prompt engineering patterns and evaluation frameworks*  
+  👉 `/wiki/Prompt-Flow-Design`
+
+- **Modernization Patterns Library**  
+  *Strangler pattern, event‑driven design, API‑led connectivity, canonical models*  
+  👉 `/wiki/Modernization-Patterns`
+
+---
+
+## ⭐ **Featured Work (Pinned Repositories)**
+- `core-lending-modernization-patterns`  
+- `banking-sml-architecture`  
+- `prompt-flow-design-framework`  
+- `api-modernization-accelerators`  
+- `event-driven-lending-blueprints`  
+- `modernization-governance-toolkit`
+
+*(These repos contain sanitized architecture diagrams, patterns, pseudo‑code, and frameworks.)*
+
+---
+
+## 🌐 **Find Me Online**
+- **LinkedIn**  
+- **Google Scholar**  
+- **ORCID**  
+- **ResearchGate**  
+- **Finextra**  
+- **GitHub Wiki** (Full technical documentation)
+
+---
+
+## 🏆 **Mission**
+To advance **AI‑driven modernization** of global financial infrastructure, strengthen **critical banking systems**, and contribute to the next generation of **secure, resilient, and intelligent financial platforms**.
+
