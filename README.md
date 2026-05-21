@@ -40,9 +40,21 @@ I also co‑developed the **Infosys Topaz BankingSLM**, a domain‑specific LLM 
 - **30+ publications** across IEEE Xplore, SSRN, ResearchGate, Finextra, Medium  
 - **3 peer‑reviewed IEEE conference papers (2026)**  
 - **Technical Manual (100+ pages)** on Assembler & 32‑bit Memory Mapping  
-- Contributor to **BIAN**, shaping global banking standards  
+- Contributor to **BIAN**, shaping global banking standards
+- ## 📄 Published Papers
 
-My work has been read by **100,000+ professionals globally**.
+You can view all my published papers, conference submissions, and DOI‑linked research here:
+
+👉 **[Published Papers Repository](https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published/File1)**
+
+This includes:
+- Peer‑reviewed conference papers  
+- Industry publications (Finextra, Zenodo, ResearchGate)  
+- ISO 20022 and banking modernization articles  
+- AI & SLM architecture papers  
+
+
+My work has been read by **20,000+ professionals globally**.
 
 ---
 
