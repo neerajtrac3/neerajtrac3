@@ -45,7 +45,7 @@ I also co‑developed the **Infosys Topaz BankingSLM**, a domain‑specific LLM 
 
 You can view all my published papers, conference submissions, and DOI‑linked research here:
 
-👉 **[Published Papers Repository](https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published/File1)**
+👉 **[Published Papers Repository]([https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published]**
 
 This includes:
 - Peer‑reviewed conference papers  
