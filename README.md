@@ -47,15 +47,16 @@ You can view all my published papers, conference submissions, and DOI‑linked r
 
 👉 **[Published Papers Repository]([https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published]**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Assembler_32_Bit_Memory_Mapping-Technical_Publication-blue?style=for-the-badge">
-</p>
-
 This includes:
 - Peer‑reviewed conference papers  
 - Industry publications (Finextra, Zenodo, ResearchGate)  
 - ISO 20022 and banking modernization articles  
 - AI & SLM architecture papers  
+
+## 📄 Featured Document
+
+👉 **[Download: Assembler 32‑Bit Memory Mapping (Authored Publication)](Published/Assembler-32-Bit-Memory-Mapping.pdf)**  
+This is the original technical manual authored by **Neeraj Aggarwal**, published in **Infosys KShop (Doc ID: 515640)**.
 
 
 My work has been read by **20,000+ professionals globally**.
