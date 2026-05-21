@@ -56,9 +56,7 @@ This includes:
 
 My work has been read by **20,000+ professionals globally**.
 
-[View Published Papers](https://img.shields.io/badge/Published_Papers-View_Now-blue?style=for-the-badge)(https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published)
-
-[![View Published Papers](https://img.shields.io/badge/Published_Papers-View_Now-blue?style=for-the-badge)(https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published)
+[![View Published Papers](https://img.shields.io/badge/Published_Papers-View_Now-blue?style=for-the-badge)](https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published)
 
 ---
 
