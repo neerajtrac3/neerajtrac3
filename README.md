@@ -47,6 +47,10 @@ You can view all my published papers, conference submissions, and DOI‑linked r
 
 👉 **[Published Papers Repository]([https://github.com/neerajtrac3/Paper-Abstracts/tree/main/Published]**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Assembler_32_Bit_Memory_Mapping-Technical_Publication-blue?style=for-the-badge">
+</p>
+
 This includes:
 - Peer‑reviewed conference papers  
 - Industry publications (Finextra, Zenodo, ResearchGate)  
@@ -87,6 +91,7 @@ A detailed Wiki documenting architecture, innovation, enterprise adoption, and y
 
 
 ## ⭐ **Featured Work (Pinned Repositories)**
+
 - `core-lending-modernization-patterns`  
 - `banking-sml-architecture`  
 - `prompt-flow-design-framework`  
