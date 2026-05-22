@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/NEERAJ_AGGARWAL-Digital_Payments_&_ Enterprise_Modernization_&_AI_Architecture-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NEERAJ_AGGARWAL-Digital_Payments_-_ Enterprise_Modernization_-_AI_Architecture-blue?style=for-the-badge">
 </p>
 
 # 👋 Hi, I'm Neeraj Aggarwal  
