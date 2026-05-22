@@ -55,7 +55,8 @@ This includes:
 
 ## 📄 Featured Document
 
-👉 **[Download: Assembler 32‑Bit Memory Mapping (Authored Publication)](Published/Assembler-32-Bit-Memory-Mapping.pdf)**  
+👉 [Download the Publication](CR-6A.1%20Publication%20-%20Assembler%2032%20Bit%20Memory%20Mapping.pdf)
+ 
 This is the original technical manual authored by **Neeraj Aggarwal**, published in **Infosys KShop (Doc ID: 515640)**.
 
 
