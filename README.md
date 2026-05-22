@@ -10,6 +10,24 @@ I specialize in **AI engineering, digital payments, and large‑scale banking mo
 My work spans **AI architecture, domain‑specific Small Language Models (BankingSLM), modernization frameworks, prompt engineering, and Tier‑0/Tier‑1 system transformation**.  
 I build **enterprise‑grade frameworks, modernization patterns, and AI accelerators** that are adopted across global banks and referenced in academic research.
 
+## 🏆 Signature Technical Works (Authored by Neeraj Aggarwal)
+
+### 📘 Assembler 32‑Bit Memory Mapping (Published Technical Manual)
+A 100+ page technical publication originally published in Infosys KShop (Doc ID: 515640).  
+👉 **[View Publication](https://github.com/neerajtrac3/Assembler-32-Bit-Memory-Mapping/blob/main/CR-6A.1%20Publication%20-%20Assembler%2032%20Bit%20Memory%20Mapping.pdf)**
+
+### 🤖 Banking Small Language Model (SLM) Architecture
+Domain‑specific SLM design for banking transformation.  
+👉 https://github.com/neerajtrac3/banking-sml-architecture
+
+### 🏗️ Event‑Driven Lending Architecture Blueprints
+Enterprise blueprint for origination → underwriting → servicing.  
+👉 https://github.com/neerajtrac3/event-driven-lending-blueprints
+
+### 🔍 ISO 20022 – Complexity, Risk & Modernization Strategy
+Industry article explaining message complexity and migration risks.  
+👉 https://github.com/neerajtrac3/Paper-Abstracts
+
 ---
 
 ## 🚀 **What I Work On**
