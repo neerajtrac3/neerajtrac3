@@ -54,6 +54,12 @@ This includes:
 - AI & SLM architecture papers  
 
 ## 📄 Featured Document
+> ## 🚀 Featured Technical Publication  
+> ### **Assembler 32‑Bit Memory Mapping (Authored by Neeraj Aggarwal)**  
+> A comprehensive technical manual originally published in Infosys KShop (Doc ID: 515640).  
+>  
+> 👉 **[📄 Download the Full Publication (PDF)](https://github.com/neerajtrac3/Assembler-32-Bit-Memory-Mapping/blob/main/CR-6A.1%20Publication%20-%20Assembler%2032%20Bit%20Memory%20Mapping.pdf)**
+
 
 👉 [Download the Publication](https://github.com/neerajtrac3/Assembler-32-Bit-Memory-Mapping/blob/main/CR-6A.1%20Publication%20-%20Assembler%2032%20Bit%20Memory%20Mapping.pdf)
 
