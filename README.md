@@ -44,16 +44,16 @@ Industry article explaining message complexity and migration risks.
 
 ---
 
-# 🏅 Judging & Peer Review (EB‑1A Criterion)
+# 🏅 Judging & Peer Review 
 
-- **Peer Reviewer – RCSM 2025 Conference**  
-- **Engineering Design Judge – RIMESA/MESA**  
+- **Peer Reviewer – Multiple IEEE / Springer Conferences - Reviewed 60+ Technical Papers**  
+- **Engineering Design Judge – Rhode Island Mathematics Engineering Science Achievement MESA**
+- **Skills USA, Rhode Island - Technical Chair & Judge**
+- **National History Day - Rhode Island - Judge for Website and Papers**
+- **Judge - Infy App Design Challenge**   
 - **Academic Advisory & Guest Lectures**  
-  - University of Rhode Island (URI)  
-  - Johnson & Wales University (JWU)  
-  - CCRI Cybersecurity Event  
-
-These roles demonstrate **recognition of expertise** and align directly with EB‑1A “judge of the work of others” criteria.
+    - CCRI Cybersecurity Event
+- **Keynote Speaker - IoT Enabled Modernization using ERMI & LNBA Frameworks for High Volume banking Systems** 
 
 ---
 
