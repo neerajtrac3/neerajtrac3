@@ -39,7 +39,7 @@ Industry article explaining message complexity and migration risks.
 - **ISO 20022 – Complexity & Risk** – Industry Article  
 - **Prompt Flow Design Framework** – Technical Paper  
 - **Banking SLM Architecture** – Research Work  
-- **Event‑Driven Lending Blueprint** – Architecture Paper  
+- **Digital Payment Systems** – Architecture Paper  
 - **ICETM 2026 Conference Paper** – Accepted  
 
 ---
@@ -61,7 +61,7 @@ Industry article explaining message complexity and migration risks.
 
 - Domain‑Specific SLMs (Banking SLM)  
 - Enterprise AI Architecture  
-- Event‑Driven Systems  
+- Digital Payment Systems 
 - ISO 20022 Modernization  
 - Core Banking Transformation  
 - Legacy Modernization (Assembler, COBOL, OS/390)  
