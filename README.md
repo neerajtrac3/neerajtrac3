@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Neeraj Aggarwal  
-### AI Architecture • Banking Modernization • Enterprise Delivery • Research & Technical Authorship
+### AI SLM Architecture • Banking Modernization • Enterprise Delivery • Research & Technical Authorship
 
 I specialize in **AI architecture, domain‑specific Small Language Models (SLMs), banking modernization, and enterprise‑scale delivery**.  
 My work spans **Infosys Topaz COE (AI Architecture & Innovation)** and **State Street (Enterprise Delivery & Governance)** — blending deep technical expertise with program leadership.
