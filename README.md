@@ -21,7 +21,7 @@ This work has been used across multiple modernization programs, onboarding track
 
 ### 🤖 **Banking Small Language Model (SLM) Architecture**  
 Domain‑specific SLM design for banking transformation.  
-👉 https://github.com/neerajtrac3/banking-sml-architecture
+👉 https://github.com/neerajtrac3/Banking-SLM-Architecture
 
 ### 🏗️ **Digital Payment Systems**  
 Payment System Architectures - Artificial Intelligence Workflows - Tokenized Money Architecture - Enterprise Control Panel - Multi Rail Orchestration.  
