@@ -23,9 +23,9 @@ This work has been used across multiple modernization programs, onboarding track
 Domain‑specific SLM design for banking transformation.  
 👉 https://github.com/neerajtrac3/banking-sml-architecture
 
-### 🏗️ **Event‑Driven Lending Architecture Blueprints**  
-Enterprise blueprint for origination → underwriting → servicing.  
-👉 https://github.com/neerajtrac3/event-driven-lending-blueprints
+### 🏗️ **Digital Payment Systems**  
+Payment System Architectures - Artificial Intelligence Workflows - Tokenized Money Architecture - Enterprise Control Panel - Multi Rail Orchestration.  
+👉 https://github.com/neerajtrac3/Digital-Payment-Systems/tree/main/architectures
 
 ### 🔍 **ISO 20022 – Complexity, Risk & Modernization Strategy**  
 Industry article explaining message complexity and migration risks.  
