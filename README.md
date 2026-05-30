@@ -86,6 +86,29 @@ My authored works and frameworks have been used across **multiple enterprise pro
 
 # 📌 Featured Technical Publication (Must Read)
 
+## 🧩 Enterprise Resilience Maturity Index (ERMI)
+A resilience‑first scoring model for modernization, AI‑readiness, and operational stability in digital payment systems. ERMI is an original framework developed by Neeraj Aggarwal to quantify modernization maturity and systemic risk across large‑scale financial platforms. It evaluates resilience across five dimensions:
+
+Architectural Resilience
+Operational Resilience
+Data Resilience
+Security Resilience
+Organizational Resilience
+
+ERMI is used in modernization programs to:
+
+Prioritize modernization investments
+Reduce integration failures
+Strengthen regulatory confidence
+Improve AI‑readiness
+Guide cloud/API modernization sequencing
+
+## 📄 Published Version (DOI):  
+https://zenodo.org/records/18460506
+
+## 📌 Industry Adoption:  
+ERMI is actively used within State Street Gateway Payments Modernization to evaluate resilience maturity across 50+ enterprise payment systems.
+
 > ## 🚀 Assembler 32‑Bit Memory Mapping  
 > A comprehensive technical manual covering OS/390 memory architecture, addressing modes, PSA/TCB/ASCB structures, and debugging patterns.  
 >  
